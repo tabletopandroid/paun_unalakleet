@@ -1,0 +1,10 @@
+{
+  "package-name": "tabletopandroid-airport-paun-unalakleet",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "PAUN",
+      "revision": 1
+    }
+  ]
+}

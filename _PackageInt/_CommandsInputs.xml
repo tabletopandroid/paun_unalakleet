@@ -1,0 +1,13 @@
+<CommandsInputs>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\paun_unalakleet\PackageSources\Scenery\airport-paun-unalakleet\scenery\PAUN.xml" Failure="0">
+		<Package Name="tabletopandroid-airport-paun-unalakleet" Failure="0">
+			<AssetGroup Name="scenery"/>
+		</Package>
+	</File>
+	<File Path="C:\Users\marc\Projects\flight-simulator\scenery\paun_unalakleet\PackageDefinitions\tabletopandroid-airport-paun-unalakleet\ContentInfo\Thumbnail.jpg" Failure="0">
+		<Package Name="tabletopandroid-airport-paun-unalakleet" Failure="0">
+			<AssetGroup Name="ContentInfo"/>
+		</Package>
+	</File>
+</CommandsInputs>
+
