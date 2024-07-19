@@ -16,8 +16,8 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\tabletopandroid-airport-paun-unalakleet\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\tabletopandroid-airport-paun-unalakleet</OutputDir>
+			<AssetDir>PackageDefinitions\tabletopandroid-airport-paun-unalakleet\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\tabletopandroid-airport-paun-unalakleet\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="scenery">
 			<Type>BGL</Type>
