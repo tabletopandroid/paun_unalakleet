@@ -4,12 +4,12 @@
   "title": "Unalakleet Airport",
   "manufacturer": "",
   "creator": "Marc Ferguson",
-  "package_version": "0.1.0",
+  "package_version": "0.2.0",
   "minimum_game_version": "1.37.19",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "VERSION 0.1.0 RELEASED JULY 18, 2024\\nInitial design of the airport.\nAdded runways, taxiways, and parking.\nAdded cemetary.",
-      "OlderHistory": ""
+      "LastUpdate": "VERSION 0.2.0 RELEASED AUGUST 18, 2024\\nAdded Animated Human and Totof v4 add-ons.\nAdded airport lights and additional items.",
+      "OlderHistory": "VERSION 0.1.0 RELEASED JULY 18, 2024\\nInitial design of the airport.\nAdded runways, taxiways, and parking.\nAdded cemetary."
     }
   }
 }
